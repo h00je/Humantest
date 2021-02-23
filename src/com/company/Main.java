@@ -47,6 +47,7 @@ public class Main {
         for(int i = 0; i < intarr.length; i++){
             System.out.println(intarr[i]);
         }
+        System.out.println("zalupko");
     }
 
     private static void printArray(String[] arr) {
