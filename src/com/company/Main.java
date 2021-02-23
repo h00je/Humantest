@@ -29,6 +29,7 @@ public class Main {
 //        String[] array = initializeArray();
 //        System.out.println(Arrays.toString(array));
 //        printArray(array);
+        int a  = 10;
 
         String[] srt = new String[10];
         Integer[] intarr = new Integer[10];
